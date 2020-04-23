@@ -16,4 +16,3 @@ const FaceRecognition = ({ imageUrl, box }) => {
 
 export default FaceRecognition
 
-//https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNBQIVt5nHut7ku-MewbsOxfL-Uap-QorMsL2MTnbdmZaH6yY3&usqp=CAU
